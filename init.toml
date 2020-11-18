@@ -50,7 +50,7 @@ default_height = 30
 [[layers]]
   name = "lang#python"
   enable_typeinfo = true
-  python_interpreter = "C:\Users\saulo\AppData\Local\Programs\Python\Python38-32\python.exe"  
+  python_interpreter = ""  
 
 [[layers]]
   name = "lsp"
